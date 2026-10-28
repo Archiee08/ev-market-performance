@@ -3,9 +3,13 @@ An end-to-end data analytics and web integration project designed to transform g
 
 🌐 Live Project Links
 Live Website: https://agrawal.anmoflow.com/
+
 Project Demo Video:  
+
 *Tableau Interactive Dashboard:* https://public.tableau.com/app/profile/archie.namdev/viz/EVMARKET-DASHBOARD_17931679051340/Dashboard1?publish=yes
+
 Tableau Market Story: https://public.tableau.com/app/profile/archie.namdev/viz/EVMARKET-STORY_17931679945320/Story1?publish=yes
+
 🎯 Project Objective
 The goal of this project is to process and visualize global EV datasets to uncover patterns in vehicle adoption, regional sales distribution, pricing vs. driving range efficiency, and battery technology performance. By transitioning the analysis into an integrated dashboard and multi-scene Tableau Story layout, complex market findings become centralized and easy to present.
 
